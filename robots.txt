@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eewohleebo.pspeter3.com/sitemap.xml
